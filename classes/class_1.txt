@@ -1,14 +1,13 @@
 Class: Menu
 
 Attributes:
-number_of_pages (integer)
-restaurant_name (string)
+menu_items (array)
+menu_name (string)
 menu_type (string)
 color (string)
-font (string)
 
 Methods:
-add_page (adds one to pages attribute)
-change_name (changes restaurant_name attribute)
+add_item (append a menu item into menu_items array)
+change_name (changes menu_name attribute)
+get_type (prints menu_type attribute)
 change_color (changes color attribute)
-change_font (changes font attribute)
