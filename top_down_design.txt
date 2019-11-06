@@ -47,3 +47,4 @@ how to become a Turing student
   10.2 Do all homework before deadline
     10.2.1 Track homework using kanban
   10.3 Submit capstone before deadline
+    10.3.1 Follow instructions found in Mod 0 Curriculum page
