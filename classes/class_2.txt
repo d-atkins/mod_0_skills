@@ -1,0 +1,13 @@
+Class: Tray
+
+Attributes:
+number_of_plates (integer)
+color (string)
+surface_area (integer)
+isClean? (boolean)
+
+Methods:
+remove_plate (subtracts 1 from number_of_plates attribute)
+need_help (returns true if number_of_plates is greater than 10)
+paint (changes color attribute)
+wash (changes isClean? attribute to true)
