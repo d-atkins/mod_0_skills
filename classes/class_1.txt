@@ -1,0 +1,13 @@
+Class: Menu
+
+Attributes:
+number_of_pages (integer)
+restaurant_name (string)
+color (string)
+font (string)
+
+Methods:
+add_page (adds one to pages attribute)
+change_name (changes restaurant_name attribute)
+change_color (changes color attribute)
+change_font (changes font attribute)
