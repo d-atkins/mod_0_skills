@@ -1,0 +1,13 @@
+Object: Tray7
+
+Attributes:
+number_of_plates: 14
+color: "brown"
+surface_area: 3
+isClean?: false
+
+Methods:
+remove_plate: number_of_plates = 13
+need_help: true
+paint: color = "blue"
+wash: isClean? = true
