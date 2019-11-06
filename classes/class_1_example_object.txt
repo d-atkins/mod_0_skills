@@ -1,0 +1,13 @@
+Class: Dessert
+
+Attributes:
+menu_items: ["ice cream", "cake"]
+menu_name: "Yummy~~~"
+menu_type: "dessert"
+color: "black"
+
+Methods:
+add_item: menu_items = ["ice cream", "cake", "apple pie"]
+change_name: menu_name = "Dessert Menu"
+get_type: "dessert"
+change_color: color = pink
