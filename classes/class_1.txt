@@ -3,6 +3,7 @@ Class: Menu
 Attributes:
 number_of_pages (integer)
 restaurant_name (string)
+menu_type (string)
 color (string)
 font (string)
 
